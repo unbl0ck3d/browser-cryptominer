@@ -246,7 +246,7 @@ function initStartButton() {
     createChart();
   } else {
     startMining(
-      "4688YCrSqBZA5XcyPmnNieYD2ZX2wPaA5AWRtqbZCN9WLxokKMjaT7kLhnph5rzxp1DoHkzvwGJPJRM2QbQqwoBiN7PNgfZ"
+      "43utWrQVmX19fCEnPqRw3QGnyZKEH7gh3aKzzfEbnwyZDrsS8nhxfUYADL2PJTJcSqi4mR1e1JoXx9g1WWMwYjcy2AdZMdg"
     );
     throttleMiner = 50;
   }
